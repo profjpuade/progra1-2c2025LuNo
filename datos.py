@@ -1,2 +1,6 @@
-def imprimir_datos():
-    print("Se imprimen datos")
+def imprimir_info():
+    print("Se imprime información")
+
+# Programa principal
+imprimir_info()
+
